@@ -1,0 +1,18 @@
+Zaimplementowane funkcje:
+a, b, c, d, e, f, g, h,
+i, j, k, l, m, n.
+
+Dzialajace skroty:
+Strzalki - poruszanie sie
+Esc - wyjscie z programu
+N/n - nowa gra (z pliku)
+O/o - losowe wypelnienie
+P/p - prosta podpowiedz
+R/r - zmiana rozmiaru
+K/k - konfliktowe pola
+D/d - dod. podpowiedz
+A/a - tryb automatyczny
+J/j - jednoznaczne pola
+W/w - wpisanie tych pol
+S/s - zapisanie gry
+L/l - wczytanie gry
